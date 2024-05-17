@@ -36,9 +36,9 @@ composite key is a combination of two or more columns in a table that can be use
 
 SQL Syntax to specify composite key:
 
-       CREATE TABLE TABLE_NAME  
-       (COLUMN_1, DATA_TYPE_1,  
-       COLUMN_2, DATA_TYPE_2,  
+       CREATE TABLE TABLE_NAME
+       (COLUMN_1, DATA_TYPE_1,
+       COLUMN_2, DATA_TYPE_2,
        ...
        PRIMARY KEY (COLUMN_1, COLUMN_2, ...));  
 
@@ -80,23 +80,23 @@ A JOIN clause is used to combine rows from two or more tables, based on a relate
 
 ### Different Types of SQL JOINs
         INNER JOIN: Returns records that have matching values in both tables.
-![alt text](image.png)
+![alt text](Source/image.png)
 
         LEFT JOIN: Returns all records from the left table, and
         the matched records from the right table 
-![alt text](image-1.png)
+![alt text](Source/image-1.png)
 
         RIGHT JOIN: Returns all records from the right table, 
         and the matched records from the left table.
-![alt text](image-2.png)
+![alt text](Source/image-2.png)
 
         FULL JOIN: Returns all records when there is a match in
         either left or right table.
-![alt text](image-3.png)
+![alt text](Source/image-3.png)
 
 ## SQL order of execution
 Defines the order in which the clauses of a query are evaluated. The correct order of execution in SQL is FROM, WHERE, GROUP BY, HAVING, SELECT, DISTINCT, ORDER BY and LIMIT.It is very important to understand.
 
 Refer this image
 
-![alt text](image-4.png)
+![alt text](Source/image-4.png)
