@@ -102,5 +102,6 @@ Refer this image
 ![alt text](Source/image-4.png)
 
 ## Reference
-[text](https://www.javatpoint.com/sql-tutorial)
-[text](https://www.w3schools.com/sql/)
+[https://www.javatpoint.com/sql-tutorial](https://www.javatpoint.com/sql-tutorial)
+
+[https://www.w3schools.com/sql/](https://www.w3schools.com/sql/)
