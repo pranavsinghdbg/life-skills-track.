@@ -100,3 +100,7 @@ Defines the order in which the clauses of a query are evaluated. The correct ord
 Refer this image
 
 ![alt text](Source/image-4.png)
+
+## Reference
+[text](https://www.javatpoint.com/sql-tutorial)
+[text](https://www.w3schools.com/sql/)
