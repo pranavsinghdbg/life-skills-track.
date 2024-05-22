@@ -1,4 +1,4 @@
-#
+# Listening and assertive communication
 ## 1. What are the steps/strategies to do Active Listening?
 
     Focus on the speaker's understanding fully. 
