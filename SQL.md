@@ -9,21 +9,21 @@ We  can write the keywords of SQL in both uppercase and lowercase, but writing t
 
 ## Simple Example of SQL statement
         1. SELECT * FROM "table_name";
-This statement selecting all column from table.
+        This statement selecting all column from table.
 
 ## Most Important SQL Commands and Statements
-    a) Select statement :- Used to read data from database and show as the output to user.
-    b) Create Table Statement :- Used to create new Table in SQL Database.
-    c) Update statement :- Used to changes or modifies the stored data in the SQL database.
-    d) Delete Statement :- Used to deletes the stored data from the SQL database.
-    e) Alter Table statement :-  Used to adds, deletes, and modifies the columns of the table.
-    f) Drop Table Statement :- Used to removes the table completely. 
-    g) Create database statement :- This statement is used to create new database.
-    h) Drop statement :- This command is used to deletes the existing database with all Tables.
-    i) Insert Into statement :- This command is used to insert the data into existing Table.
-    j) Truncate Table statement :- Deletes all the stored records from the table not deletes Table.
-    k) Commit Statement :- Saves the changes permanently, which are done in the transaction.
-    l) Rollback Statement :- This statement undo transactions and operations which are not yet saved to database. 
+* Select statement :- Used to read data from database and show as the output to user.
+* Create Table Statement :- Used to create new Table in SQL Database.
+* Update statement :- Used to changes or modifies the stored data in the SQL database.
+* Delete Statement :- Used to deletes the stored data from the SQL database.
+* Alter Table statement :-  Used to adds, deletes, and modifies the columns of the table.
+* Drop Table Statement :- Used to removes the table completely. 
+* Create database statement :- This statement is used to create new database.
+* Drop statement :- This command is used to deletes the existing database with all Tables.
+* Insert Into statement :- This command is used to insert the data into existing Table.
+* Truncate Table statement :- Deletes all the stored records from the table not deletes Table.
+* Commit Statement :- Saves the changes permanently, which are done in the transaction.
+* Rollback Statement :- This statement undo transactions and operations which are not yet saved to database. 
 
 
 ## SQL Key
@@ -59,11 +59,11 @@ An aggregate function is a function that performs a calculation on a set of valu
 
 The most commonly used SQL aggregate functions are:
 
-    • MIN() - returns the smallest value within the selected column 
-    • MAX() - returns the largest value within the selected column 
-    • COUNT() - returns the number of rows in a set 
-    • SUM() - returns the total sum of a numerical column 
-    • AVG() - returns the average value of a numerical column    
+* MIN() - returns the smallest value within the selected column 
+* MAX() - returns the largest value within the selected column 
+* COUNT() - returns the number of rows in a set 
+* SUM() - returns the total sum of a numerical column 
+* AVG() - returns the average value of a numerical column    
 
 Example :- 
      
